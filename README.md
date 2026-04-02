@@ -1,5 +1,10 @@
 # dankoe-writer 🚀
 
+[![GitHub stars](https://img.shields.io/github/stars/RAYMEN-BBB/dankoe_writer?style=social)](https://github.com/RAYMEN-BBB/dankoe_writer)
+[![GitHub forks](https://img.shields.io/github/forks/RAYMEN-BBB/dankoe_writer?style=social)](https://github.com/RAYMEN-BBB/dankoe_writer)
+[![GitHub issues](https://img.shields.io/github/issues/RAYMEN-BBB/dankoe_writer)](https://github.com/RAYMEN-BBB/dankoe_writer/issues)
+[![GitHub license](https://img.shields.io/github/license/RAYMEN-BBB/dankoe_writer)](https://github.com/RAYMEN-BBB/dankoe_writer/blob/main/LICENSE)
+
 Dan Koe 爆款内容生成器 - 基于 The Modern Writing System，整合多平台调研、爆款框架写作、AI 人性化处理于一体。
 
 ## 功能
